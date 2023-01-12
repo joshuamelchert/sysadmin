@@ -1,5 +1,5 @@
-# Awesome Sysadmin
-A curated list of amazingly awesome open source sysadmin resources.
+# Awesome Sysadmin From Kahun
+https://github.com/kahun/awesome-sysadmin - A curated list of amazingly awesome open source sysadmin resources.
 
 ## Contributing
 Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
